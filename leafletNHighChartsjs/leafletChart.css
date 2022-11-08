@@ -1,0 +1,16 @@
+/*
+* css
+*/
+.chart {
+    width: 500px;
+    height: 200px;
+}
+
+.leaflet-popup-content {
+    width: 500px; !important;
+}
+
+.leaflet-popup-content-wrapper {
+    width: 550px; !important;
+
+}
